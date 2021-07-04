@@ -1,12 +1,14 @@
 h1{
     font-size: 50px;
     font-family: 'Crimson Text', serif; 
+    color: blanchedalmond;
 }
 .name{
     color: crimson;
 }
 section{
     display: flex;
+    
 }
 .size{
     width: 50%;
@@ -27,4 +29,19 @@ section{
 }
 p{
     font-size: 20px;
+    color: whitesmoke;
+}
+.background{
+    background-image: linear-gradient(blue,violet);
+    background-repeat: no-repeat;
+    background-size: 200%;
+}
+.background2{
+    background-image: linear-gradient(violet,orangered);
+}
+.dream{
+    
+}
+.secondimg{
+    background-color: none;
 }
