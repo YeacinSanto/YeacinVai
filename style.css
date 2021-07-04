@@ -39,9 +39,8 @@ p{
 .background2{
     background-image: linear-gradient(violet,orangered);
 }
-.dream{
-    
-}
-.secondimg{
-    background-color: none;
+.last{
+    background-image: linear-gradient(orangered, black);
+    text-align: center;
+    color: whitesmoke;
 }
